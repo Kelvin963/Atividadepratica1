@@ -1,0 +1,6 @@
+Válidos: 44079
+Inválidos: 4357539
+Tempo gasto em milissegundos ao todo: 1908
+Válidos: 44161
+Inválidos: 4360123
+Tempo gasto em milissegundos ao todo: 1914
